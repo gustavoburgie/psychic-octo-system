@@ -1,0 +1,9 @@
+public class Inverter
+{
+    public int getNumber(int n)
+    {
+    
+        return n;
+    }
+    
+}
